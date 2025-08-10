@@ -110,8 +110,7 @@ This demo helps showcase HelpToken's potential. Contributions welcome:
 
 Questions about HelpToken or setting up a municipal pilot?
 - **Main Project**: [HelpToken Repository](https://github.com/FlushingTech/Help_Token_8-9-25)
-- **Email**: helptoken@flushingtech.org
-- **Issues**: [GitHub Issues](https://github.com/YourUsername/helptoken-demo/issues)
+- **Email**: natekimdev@gmail.com
 
 ---
 
