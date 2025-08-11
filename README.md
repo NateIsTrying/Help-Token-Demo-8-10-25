@@ -4,6 +4,8 @@
 
 This is a standalone demo showcasing how HelpToken works without requiring any backend setup or blockchain connections. Perfect for demonstrating the concept to potential municipal partners and community members.
 
+The full project is here: https://github.com/NateIsTrying/Help_Token_8-9-25
+
 ## 🚀 Quick Start
 
 ```bash
